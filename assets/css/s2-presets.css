@@ -1,0 +1,150 @@
+/* S2 Extra Presets */
+/* link transitions */
+a {
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    -ms-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+
+/* backgrounds */
+.bg-darker {
+    background-color: #1a1a1a;
+}
+
+/* padding extras */
+.p-7 {
+    padding: 5rem !important;
+}
+
+.pt-7,
+.py-7 {
+    padding-top: 5rem !important;
+}
+
+.pr-7,
+.px-7 {
+    padding-right: 5rem !important;
+}
+
+.pb-7,
+.py-7 {
+    padding-bottom: 5rem !important;
+}
+
+.pl-7,
+.px-7 {
+    padding-left: 5rem !important;
+}
+
+.p-6 {
+    padding: 4rem !important;
+}
+
+.pt-6,
+.py-6 {
+    padding-top: 4rem !important;
+}
+
+.pr-6,
+.px-6 {
+    padding-right: 4rem !important;
+}
+
+.pb-6,
+.py-6 {
+    padding-bottom: 4rem !important;
+}
+
+.pl-6,
+.px-6 {
+    padding-left: 4rem !important;
+}
+
+/* margin extras */
+.m-7 {
+    margin: 5rem !important;
+}
+
+.mt-7,
+.my-7 {
+    margin-top: 5rem !important;
+}
+
+.mr-7,
+.mx-7 {
+    margin-right: 5rem !important;
+}
+
+.mb-7,
+.my-7 {
+    margin-bottom: 5rem !important;
+}
+
+.ml-7,
+.mx-7 {
+    margin-left: 5rem !important;
+}
+
+.m-6 {
+    margin: 4rem !important;
+}
+
+.mt-6,
+.my-6 {
+    margin-top: 4rem !important;
+}
+
+.mr-6,
+.mx-6 {
+    margin-right: 4rem !important;
+}
+
+.mb-6,
+.my-6 {
+    margin-bottom: 4rem !important;
+}
+
+.ml-6,
+.mx-6 {
+    margin-left: 4rem !important;
+}
+
+/* Font weight */
+.fw-300 {
+    font-weight: 300 !important;
+}
+
+.fw-500 {
+    font-weight: 500 !important;
+}
+
+.fw-700 {
+    font-weight: 700 !important;
+}
+
+/* letter spacing */
+.ls-1 {
+    letter-spacing: 1px;
+}
+
+.ls-2 {
+    letter-spacing: 2px;
+}
+
+.ls-3 {
+    letter-spacing: 3px;
+}
+
+.ls--1 {
+    letter-spacing: -1px;
+}
+
+.ls--2 {
+    letter-spacing: -2px;
+}
+
+.ls--3 {
+    letter-spacing: -3px;
+}
